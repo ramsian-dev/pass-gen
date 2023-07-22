@@ -1,5 +1,5 @@
 {
-  "name": "pass-gen",
+  "name": "pass-gen-ramsian",
   "version": "1.0.0",
   "description": "node js package for generating password",
   "main": "main.js",
