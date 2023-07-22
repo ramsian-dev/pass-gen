@@ -8,3 +8,7 @@ function generatePassword(length=10, charset='abcdefghijklmnopqrstuvwxyzABCDEFGH
     
     return password;
 }
+
+exports.default = {
+  generatePassword
+}
